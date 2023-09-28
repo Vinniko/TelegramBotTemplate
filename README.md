@@ -48,7 +48,7 @@ You can write to your bot in Telegram:
 ```
 Next you get answer: `Hello *your telegram firstname or username*`
 
-#Studio and Framework
+## Studio and Framework
 
 <p align="center"><img height="188" width="198" src="https://botman.io/img/botman.png"></p>
 <h1 align="center">BotMan Studio</h1>
